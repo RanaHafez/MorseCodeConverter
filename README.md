@@ -11,11 +11,11 @@ This is a Morse Code converter that converts from and to Morse Code.
 ### Versions
 * Text Based Converter(Python Scripting).
 
-     [Flow Chart](images/flow-chart.PNG)
+     ![Flow Chart](images/flow-chart.PNG)
 * GUI Based Converter
 using Tkinter.
 
-     [GUI](images/morse_gui.PNG)
+     ![GUI](images/morse_gui.PNG)
 
 
 ### Acknowledgments
