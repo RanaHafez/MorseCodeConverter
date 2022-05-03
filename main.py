@@ -2,6 +2,8 @@ from tkinter import *
 from morse_converter import *
 
 
+# Rana Hafez (2022)
+
 window = Tk()
 window.title("My Morse Code Program .. ")
 window.minsize(width=450, height=500)
